@@ -16,10 +16,13 @@ Here are some ideas to get you started:
 -->
 
 ## Tech
+![Azure](https://img.shields.io/badge/-Azure-white?style=flat-square&logo=microsoft%20azure&logoColor=blue)
+![AWS](https://img.shields.io/badge/-AWS-white?style=flat-square&logo=amazonaws&logoColor=orange)
 ![Git](https://img.shields.io/badge/-Git-white?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-Github-grey?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-Gitlab-white?style=flat-square&logo=gitlab)
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-white?style=flat-square&logo=bitbucket&logoColor=blue)
+![Jenkins](https://img.shields.io/badge/-Jenkins-white?style=flat-square&logo=jenkins)
 ![Golang](https://img.shields.io/badge/-Golang-white?style=flat-square&logo=go)
 ![Python](https://img.shields.io/badge/-Python-white?style=flat-square&logo=python)
 ![Terraform](https://img.shields.io/badge/-Terraform-white?style=flat-square&logo=terraform)
