@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 ### Cloud Computing
 
-![AWS](https://img.shields.io/badge/-AWS-white?style=flat-square&logo=amazonaws&logoColor=orange)
-![Azure](https://img.shields.io/badge/-AWS-grey?style=flat&logo=amazonaws&logoColor=orange)
+![AWS](https://img.shields.io/badge/-AWS-grey?style=flat&logo=amazonaws&logoColor=orange)
+![Azure](https://img.shields.io/badge/-Azure-grey?style=flat&logo=microsoftazure&logoColor=blue)
 
 ### CICD
 
