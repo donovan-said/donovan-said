@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Tech
+![Git](https://img.shields.io/badge/-Git-white?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-Github-grey?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-Gitlab-white?style=flat-square&logo=gitlab)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-white?style=flat-square&logo=bitbucket&logoColor=blue)
+![Golang](https://img.shields.io/badge/-Golang-white?style=flat-square&logo=go)
+![Python](https://img.shields.io/badge/-Python-white?style=flat-square&logo=python)
+![Terraform](https://img.shields.io/badge/-Terraform-white?style=flat-square&logo=terraform)
+![Docker](https://img.shields.io/badge/-Docker-white?style=flat-square&logo=docker)
+![K8s](https://img.shields.io/badge/-K8s-white?style=flat-square&logo=kubernetes)
+![Ansible](https://img.shields.io/badge/-Ansible-grey?style=flat-square&logo=ansible)
+![Linux](https://img.shields.io/badge/-Linux-white?style=flat-square&logo=linux)
+
