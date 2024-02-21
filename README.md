@@ -71,6 +71,6 @@ Here are some ideas to get you started:
 
 
 <!--
-https://simpleicons.org/?q=amzon
-https://simpleicons.org/?q=amzon
+https://shields.io/
+https://simpleicons.org/
 -->
