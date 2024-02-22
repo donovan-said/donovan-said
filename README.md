@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 ![Golang](https://img.shields.io/badge/-Golang-grey?style=flat&logo=go)
 ![Python](https://img.shields.io/badge/-Python-grey?style=flat&logo=python)
 ![Shell Scripting](https://img.shields.io/badge/-Shell%20Scripting-grey?style=flat&logo=gnubash&logoColor=white)
+![ZSH](https://img.shields.io/badge/-zsh-grey?style=flat&logo=zsh&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-grey?style=flat&logo=powershell)
 ![Markdown](https://img.shields.io/badge/-Markdown-grey?style=flat&logo=markdown)
 ![Jekyll](https://img.shields.io/badge/-Jekyll-grey?style=flat&logo=jekyll)
