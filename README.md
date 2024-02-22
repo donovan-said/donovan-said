@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
+<!-- <p align="center">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3lycjQxdHduazdvaXVzbHg5MzJjdXc3NzI4d2NoN3JndW94NnhpOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/STx3VQPPCgvbzIKlw4/giphy.gif" width="300"/>
-</p>
+</p> -->
 <p align="center"> 
     <a href="https://www.linkedin.com/in/donovansaid/">
         <img src="https://img.shields.io/badge/-linkedin-grey?style=flat&logo=linkedin&logoColor=blue" alt="LinkedIn Badge">
@@ -32,47 +32,38 @@ Here are some ideas to get you started:
 <h2 style="text-align: center;">Technology Stacks</h2>
 
 <p>
-<img src="https://img.shields.io/badge/-AWS-grey?style=flat&logo=amazonaws&logoColor=orange" title="AWS" alt="AWS" width="55" height="20"/>&nbsp;
-<img src="https://img.shields.io/badge/-Azure-grey?style=flat&logo=microsoftazure&logoColor=blue" title="TBC" alt="TBC" width="55" height="20"/>&nbsp;
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="TBC" alt="TBC" width="55" height="20"/>&nbsp;
-
+<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" title="GitHub Actions" alt="GitHub Actions" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="GitLab" alt="GitLab" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" title="Bitbucket" alt="Bitbucket" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-plain.svg" title="Azure DevOps" alt="Azure DevOps" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Golang" alt="Golang" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/ohmyzsh/ohmyzsh-original.svg" title="OhMyZsh" alt="OhMyZsh" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" title="PowerShell" alt="PowerShell" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/jekyll/jekyll-plain.svg" title="Jekyll" alt="Jekyll" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/yaml/yaml-plain.svg" title="YAML" alt="YAML" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" title="JSON" alt="JSON" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="TBC" alt="TBC" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/packer/packer-plain.svg" title="Packer" alt="Packer" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/vault/vault-original.svg" title="Vault" alt="Vault" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-plain.svg" title="Ansible" alt="Ansible" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" title="K8s" alt="K8s" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" title="Grafana" alt="Grafana" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
 </p>
-
-![AWS](https://img.shields.io/badge/-AWS-grey?style=flat&logo=amazonaws&logoColor=orange)
-![Azure](https://img.shields.io/badge/-Azure-grey?style=flat&logo=microsoftazure&logoColor=blue)
-![Git](https://img.shields.io/badge/-git-grey?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-grey?style=flat&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-grey?style=flat&logo=githubactions&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-grey?style=flat&logo=githubpages&logoColor=white)
-![GitLab](https://img.shields.io/badge/-GitLab-grey?style=flat&logo=gitlab)
-![Bitbucket](https://img.shields.io/badge/-Bitbucket-grey?style=flat&logo=Bitbucket&logoColor=blue)
-![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-grey?style=flat&logo=azuredevops&logoColor=blue)
-![Jenkins](https://img.shields.io/badge/-Jenkins-grey?style=flat&logo=jenkins&logoColor=white)
-![Golang](https://img.shields.io/badge/-Golang-grey?style=flat&logo=go)
-![Python](https://img.shields.io/badge/-Python-grey?style=flat&logo=python)
-![Shell Scripting](https://img.shields.io/badge/-Shell%20Scripting-grey?style=flat&logo=gnubash&logoColor=white)
-![ZSH](https://img.shields.io/badge/-zsh-grey?style=flat&logo=zsh&logoColor=white)
-![PowerShell](https://img.shields.io/badge/-PowerShell-grey?style=flat&logo=powershell)
-![Markdown](https://img.shields.io/badge/-Markdown-grey?style=flat&logo=markdown)
-![Jekyll](https://img.shields.io/badge/-Jekyll-grey?style=flat&logo=jekyll)
-![YAML](https://img.shields.io/badge/-YAML-grey?style=flat&logo=yaml)
-![JSON](https://img.shields.io/badge/-JSON-grey?style=flat&logo=json)
-![Terraform](https://img.shields.io/badge/-Terraform-grey?style=flat&logo=terraform)
-![AWS CDK](https://img.shields.io/badge/-AWS%20CDK-grey?style=flat&logoColor=orange)
-![Packer](https://img.shields.io/badge/-Packer-grey?style=flat&logo=packer)
-![Vault](https://img.shields.io/badge/-Vault-grey?style=flat&logo=vault&logoColor=white)
-![Ansible](https://img.shields.io/badge/-Ansible-grey?style=flat-square&logo=ansible)
-![Linux](https://img.shields.io/badge/-Linux-grey?style=flat&logo=linux)
-![Docker](https://img.shields.io/badge/-Docker-grey?style=flat&logo=docker)
-![K8s](https://img.shields.io/badge/-K8s-grey?style=flat&logo=kubernetes)
-![Grafana](https://img.shields.io/badge/-Grafana-grey?style=flat&logo=grafana)
-![Datadog](https://img.shields.io/badge/-Datadog-grey?style=flat&logo=datadog)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-grey?style=flat&logo=PostgreSQL)
-
 
 
 <!--
 https://shields.io/
 https://simpleicons.org/
+https://github.com/devicons/devicon/tree/master/icons
 -->
