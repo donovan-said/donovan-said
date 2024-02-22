@@ -15,7 +15,29 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Tech
+<p align="center">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3lycjQxdHduazdvaXVzbHg5MzJjdXc3NzI4d2NoN3JndW94NnhpOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/STx3VQPPCgvbzIKlw4/giphy.gif" width="300"/>
+</p>
+<p align="center"> 
+    <a href="https://www.linkedin.com/in/donovansaid/">
+        <img src="https://img.shields.io/badge/-linkedin-grey?style=flat&logo=linkedin&logoColor=blue" alt="LinkedIn Badge">
+    </a>
+    <a href="mailto:donovan.s.said@gmail.com">
+        <img src="https://img.shields.io/badge/-Gmail-grey?style=flat&logo=gmail" alt="Twitter Badge"/>
+    </a>
+</p>
+
+---
+
+<h2 style="text-align: center;">Technology Stacks</h2>
+
+<p>
+<img src="https://img.shields.io/badge/-AWS-grey?style=flat&logo=amazonaws&logoColor=orange" title="AWS" alt="AWS" width="55" height="20"/>&nbsp;
+<img src="https://img.shields.io/badge/-Azure-grey?style=flat&logo=microsoftazure&logoColor=blue" title="TBC" alt="TBC" width="55" height="20"/>&nbsp;
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="TBC" alt="TBC" width="55" height="20"/>&nbsp;
+
+</p>
 
 ![AWS](https://img.shields.io/badge/-AWS-grey?style=flat&logo=amazonaws&logoColor=orange)
 ![Azure](https://img.shields.io/badge/-Azure-grey?style=flat&logo=microsoftazure&logoColor=blue)
