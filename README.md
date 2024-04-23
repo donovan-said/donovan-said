@@ -39,3 +39,11 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp; 
 </p>
+
+---
+
+<h2 style="text-align: center;">Certifications</h2>
+
+![alt text](imgs/certs.png)
+
+
